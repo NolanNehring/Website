@@ -45,8 +45,9 @@
   "author": "Themesberg",
   "license": "MIT",
   "dependencies": {
-    "bootstrap": "^4.3.1",
-    "jquery": "^3.4.1",
-    "popper": "^1.0.1"
+    "bootstrap": "^4.6.2",
+    "jquery": "^3.6.4",
+    "popper": "^1.0.1",
+    "popper.js": "^1.16.1"
   }
 }
